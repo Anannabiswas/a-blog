@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Ananna Biswas"
 categories: journal
 tags: [documentation,sample]
-image: cutting.jpg
+image: flower.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi, I am Ananna. I love to write. This blog is all about my thoughts, reflections, learning, untouchable emotions and my research. Sometimes, we can't decipher what we are thinking, what are the internal souces of a perticular emotion. Sometimes, we don't want to know about those sources and othertime we do. To me, it's important to know what actually I am thinkig, how I am thinking, and why I am thinking. This blog is a way of learning about my thoughts. 
